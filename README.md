@@ -4,14 +4,14 @@ Phone: - | Email: ai10250406@163.com | WeChat: - | 5 年经验
 
 ## 项目经历
 
-### [麦扑官网](https://mpgw.worldmaipu.com) [链接](https://mpgw.worldmaipu.com)
+### 麦扑官网 <u>[链接](https://mpgw.worldmaipu.com)</u>
 
 官网展示项目，独自完成。使用 Nuxt 3.0 进行开发，结合 Three.js 和 GSAP 实现网站动画的效果，期间也积极参与页面设计，最大程度上还原了设计，提高了公司对外展示形象。但在设计资源紧缺的情况下，网站没有实现响应式，也是一个遗憾。
 
 - 通过编写 GSAP 的动画控制模块，优化网页性能，减少了卡顿
 - 使用 Blender 建模官网所需的一些简单模型，结合 Three.js 渲染到页面，以此弥补了设计资源短缺的问题
 
-### [径山竹茶园导览](https://jszcy.worldmaipu.com/web/index.html#/) [链接](https://jszcy.worldmaipu.com/web/index.html#/)
+### 径山竹茶园导览 <u>[链接](https://jszcy.worldmaipu.com/web/index.html#/)</u>
 
 小程序地图导览项目，独自完成。结合微信原生框架，使用 Vue3 + TypeScript + Tailwind CSS + 高德 JS-API 开发。作为导览，需要有流畅的移动端交互体验，所以针对点位列表的交互，封装了基于手势的组件。
 
@@ -28,7 +28,7 @@ Phone: - | Email: ai10250406@163.com | WeChat: - | 5 年经验
 - 基于 Element Plus 的 Table 组件进行封装新的 Table 组件，使用 slot 以及 v-bind 来实现动态内容和数据穿透，减少了很多繁复的代码，提升开发效率
 - 搭配封装的 Table 组件，封装了各类表格操作的 Hooks，极大提升了开发效率，降低了代码耦合度
 
-### [朵朵校友圈 - 微信小程序](https://www.duoduo.link/img/qr-code.644a5f10.jpg)
+### 朵朵校友圈 - 微信小程序 <u>[二维码](https://www.duoduo.link/img/qr-code.644a5f10.jpg)</u>
 
 聚焦高校的社交类小程序，首页 PV 60 万+。项目使用微信原生框架进行开发，负责主开发与维护。
 
